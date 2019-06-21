@@ -1,0 +1,17 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<h type="triangle" version="1.0">
+    <area type="double">0.5</area>
+    <type type="string">Triangle</type>
+    <edges type="double[]">
+        <length type="int">3</length>
+        <index_0 type="double">1</index_0>
+        <index_1 type="double">1</index_1>
+        <index_2 type="double">1.4139999999999999</index_2>
+    </edges>
+    <angles type="double[]">
+        <length type="int">3</length>
+        <index_0 type="double">0.78500000000000003</index_0>
+        <index_1 type="double">0.78500000000000003</index_1>
+        <index_2 type="double">1.5700000000000001</index_2>
+    </angles>
+</h>
