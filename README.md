@@ -1,4 +1,2 @@
 # CPP-Serialization
-An XML approach to c++ object serialization
-
-
+  An XML approach to c++ object serialization
