@@ -1,0 +1,5 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<s type="shape" version="1.0">
+    <area type="double">1.2</area>
+    <type type="string">Shape Base</type>
+</s>
